@@ -1,7 +1,8 @@
 {
     "employees": [
-    { "id": 1, "name": "Chetan Birajdar", "phone": "9420306512", "address": "Pune", "company": "Infosys" } 
-  
+    { "id": 1, "name": "Chetan Birajdar", "phone": "9420306512", "address": "Pune", "company": "Infosys" },
+           { "id": 1, "name": "JOhn Doe", "phone": "324343434", "address": "Solapur", "company": "IBM" } ,
+           { "id": 1, "name": "3ri Tech", "phone": "233233334", "address": "Mumbai", "company": "Syntel" }  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
