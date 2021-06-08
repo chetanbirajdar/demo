@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "name": "Chetan Birajdar", "phone": "9420306512", "address": "Pune", "company": "Infosys" },
+    { "id": 1, "name": "Chetan Birajdar", "phone": "9420306512", "address": "Pune", "company": "Infosys" }
   
   ],
   "comments": [
